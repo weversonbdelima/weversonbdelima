@@ -1,5 +1,7 @@
 # Weverson Lima
 
+Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
+
 <!--
 **weversonbdelima/weversonbdelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
