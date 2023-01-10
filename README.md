@@ -2,8 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weversonbdelima/)](https://www.linkedin.com/in/weversonbdelima/)
 
-
-Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
+Sou Engenheiro de Computação, formado pela Pontifícia Universidade Católica de Goiás e atualmente trabalho com Flutter no desenvolvimento de aplicações mobile. É também sou apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
 
 <!--
 **weversonbdelima/weversonbdelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
