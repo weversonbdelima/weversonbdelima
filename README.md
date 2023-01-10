@@ -1,5 +1,8 @@
 # Weverson Lima
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weversonbdelima/)](https://www.linkedin.com/in/weversonbdelima/)
+
+
 Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
 
 <!--
